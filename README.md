@@ -1,24 +1,24 @@
 # Readme for Prime Numbers App developed with Compose
 This is an Android application developed with Jetpack Compose that calculates prime numbers. With this app, you can determine if a number is prime and also get a list of prime numbers up to a certain amount.
 
-##Getting Started
+## Getting Started
 Clone the repository and open the project in Android Studio.
 
-##Prerequisites
+## Prerequisites
 
 - Android Studio
 - Kotlin 1.5.10 or higher
 - Android SDK version 30 or higher
 - Android Gradle Plugin 7.0.0 or higher
 
-#Installing
+# Installing
 
 - Clone the repository.
 - Open the project in Android Studio.
 - Build the project using the Gradle build button.
 - Run the app on an Android emulator or device.
 
-##Usage
+## Usage
 
 - Open the app.
 - Enter an integer number in the first field.
@@ -26,5 +26,5 @@ Clone the repository and open the project in Android Studio.
 - Enter the amount of prime numbers you want to generate in the second field.
 - Press the "Calculate" button to get a list of prime numbers.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
