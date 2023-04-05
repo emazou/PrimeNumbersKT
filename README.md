@@ -29,7 +29,5 @@ Clone the repository and open the project in Android Studio.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Demo
-
-[![Alt Text](https://img.youtube.com/vi/1ybFpQyOPVBxXoks_CfAG1blp_V_MZP1I/0.jpg)](https://drive.google.com/file/d/1ybFpQyOPVBxXoks_CfAG1blp_V_MZP1I/preview)
+[![Demo](https://img.youtube.com/vi/1ybFpQyOPVBxXoks_CfAG1blp_V_MZP1I/0.jpg)](https://drive.google.com/file/d/1ybFpQyOPVBxXoks_CfAG1blp_V_MZP1I/preview)
 
