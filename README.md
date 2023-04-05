@@ -31,7 +31,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="[example_video.mp4](https://clipchamp.com/watch/4Mai9qEJ60w?utm_source=share&utm_medium=social&utm_campaign=watch)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Alt Text](https://img.youtube.com/vi/1ybFpQyOPVBxXoks_CfAG1blp_V_MZP1I/0.jpg)](https://drive.google.com/file/d/1ybFpQyOPVBxXoks_CfAG1blp_V_MZP1I/preview)
+
